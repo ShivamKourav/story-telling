@@ -3,9 +3,6 @@
 A cinematic and immersive story-telling website built with **React and Vite**.  
 The project focuses on creating a smooth scrolling experience with animated chapters, visual storytelling, transitions, and a cinematic UI.
 
-## 🌐 Live Demo
-
-🔗 [View Live Website](https://hog-warts-story-telling.vercel.app/)
 
 ## 📸 Features
 
